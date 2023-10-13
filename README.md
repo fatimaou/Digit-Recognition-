@@ -76,6 +76,14 @@ L'API backend, développée avec Django, gère les dessins, les prétraite, et l
 - **Problèmes**: Utilisez les Issues pour rapporter les problèmes ou bugs.
 - **Améliorations**: Les Pull Requests pour proposer des améliorations sont les bienvenues.
 
+### Trello 
+
+https://trello.com/invite/b/RUbKXjIo/ATTIa381119dd4113c77221acc602c082b9298BB014A/conduite-de-projet
+
+### Présentation 
+
+https://view.genial.ly/65251cf39c9b2700117bb9e9/presentation-infographic-presentation
+
 
 ### Remerciements
 
