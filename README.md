@@ -1,4 +1,3 @@
-Bien sûr, voici un README complet, en vous basant sur les informations et sections précédentes et ajoutées :
 
 ---
 
